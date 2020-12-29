@@ -18,6 +18,17 @@ section {
   justify-content: space-between;
 }
 
+.nav-parent {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.nav-item {
+  flex: 1 1 100px;
+}
+
 .header-name {
   flex: 1 0 210px;
 }
