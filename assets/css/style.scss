@@ -7,10 +7,29 @@ section {
 
     h1 {
       font-weight: bold;
-      text-align: left;
     }
   }
 }
 
+.nav-parent {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 
+.header-name {
+  flex: 1 0 210px;
+}
 
+.header-icons {
+  flex: 1 0 150px;
+}
+
+#gscholar-icon {
+  overflow: hidden;
+  object-position: -138px -508px;
+  object-fit: none;
+  width: 40px;
+  height: 40px;
+}
