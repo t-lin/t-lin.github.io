@@ -3,6 +3,13 @@ layout: default
 title: Teaching
 ---
 
+<!-- <span style="font-size: 24px;">teach·ing</span>  
+<span style="font-weight: normal;">/ˈtēCHiNG/</span>  
+<span style="font-style: italic;">noun</span>  
+<span style="margin-left: 30px;">1. The art of dumbing shit down.</span>  
+<span style="margin-left: 30px;">2. Imparting the skills necessary to use Google to address your own knowledge gap.</span>
+-->
+
 My definition of teaching is: ***the art of dumbing shit down***.  
 I frequently aim, to the best of my ability, to explain concepts in ways a layman can comprehend.
 Usually this involves the use of ***imagery and carefully selected analogies*** as the first stepping stone into any new subject.
