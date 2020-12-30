@@ -4,6 +4,7 @@
 section {
 
   #title {
+    margin: 0 0 20px 0;
 
     h1 {
       font-weight: bold;
@@ -23,6 +24,7 @@ section {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin: 10px 0 0 0;
 }
 
 .nav-item {
@@ -35,6 +37,10 @@ section {
 
 .header-icons {
   flex: 1 0 150px;
+}
+
+.icon {
+  margin: 0 4px 0 4px;
 }
 
 #gscholar-icon {
