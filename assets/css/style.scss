@@ -50,3 +50,8 @@ section {
   width: 40px;
   height: 40px;
 }
+
+#skills-history {
+  ul { margin: 0 0 5px; } /* Custom spacing between bullets of different levels */
+  strong { color: rgba(60, 180, 180, 1.00) }
+}

@@ -17,7 +17,7 @@ I also favour the use of ***demos to tie the abstract concepts learned in class 
 
 I've been a teaching assistant for 10 years, serving multiple courses in roles ranging from leading tutorials, to lecturing, to designing and running hands-on labs.
 I've also helped to re-design old courses and develop new ones as well.
-I'm a firm believer that ***hands-on experience is required*** to truly learn any new tech or skill.
+I'm a firm believer that ***hands-on experience is required*** to truly learn any new technology or skill.
 
 My focus has primarily been on teaching software (both programming and design), networking, and cloud computing.
 A summary of my teaching history is shown below.
@@ -53,14 +53,11 @@ Prepared lesson plans and lecture materials; delivered them in both in-person an
 ### Teaching Assistant
 In-lab advisor, teaching students how to assess and resolve technical issues, as well as leading tutorials.
 
+* ECE244: **Programming Fundamentals** *(Fall '15 - '20)*
+  * Supported students in learning to program and debug C++ programs
 * ECE1508: **Network Softwarization: Technologies and Enablers** *(Winter '18 - '20)*
   * Presented technical demos to showcase SAVI SDI and use of heterogeneous resources
   * Provided technical guidance and assistance to student projects
-* ECE244: **Programming Fundamentals** *(Fall '15 - '20)*
-  * Supported students in learning to program and debug C++ programs
-* ECE361: **Computer Networks I** *(Winter '15; Fall '12, '16, '18, '19)*
-  * Led weekly tutorial sessions as well as weekly TA meetings
-  * Assisted students in resolving technical issues while building their networking knowledge
 * APS105: **Computer Fundamentals** *(Fall '14, '15; Winter '16 - '20)*
   * Guided students in writing and debugging C-based programs using best practices
   * Led tutorial sessions for groups of up to 30 students, as well as 1-on-1 sessions
@@ -69,6 +66,9 @@ In-lab advisor, teaching students how to assess and resolve technical issues, as
   * Supervised 4 to 5 groups of students in semester-long software project
   * Advised students on best approaches for tackling certain problems
   * Evaluated code quality, technical presentations, and product pitches
+* ECE361: **Computer Networks I** *(Winter '15; Fall '12, '16, '18, '19)*
+  * Led weekly tutorial sessions as well as weekly TA meetings
+  * Assisted students in resolving technical issues while building their networking knowledge
 * ECE1548: **Advanced Network Architectures** *(Fall '12, '13, '15 - '17)*
   * Provided technical consultation for students on the design and implementation of their final projects
 * ECE461: **Internetworking** *(Fall '13, '14)*
