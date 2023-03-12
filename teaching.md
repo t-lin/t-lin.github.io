@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Teaching
+image:
+  path: https://avatars.githubusercontent.com/u/1961587?s=200&v=4
+  height: 200
+  width: 200
 ---
 
 <!-- <span style="font-size: 24px;">teach·ing</span>  

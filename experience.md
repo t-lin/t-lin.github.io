@@ -1,5 +1,10 @@
 ---
 layout: default
+title: Experience
+image:
+  path: https://avatars.githubusercontent.com/u/1961587?s=200&v=4
+  height: 200
+  width: 200
 ---
 
 I dislike lazily enumerated lists of every degree ever acquired, position ever held, and skill ever learned.

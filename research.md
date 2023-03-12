@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Research
+image:
+  path: https://avatars.githubusercontent.com/u/1961587?s=200&v=4
+  height: 200
+  width: 200
 ---
 
 My academic background focused on ***applied research*** relating to software-based control and management of multi-tenant & multi-region cloud infrastructures.

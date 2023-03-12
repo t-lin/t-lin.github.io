@@ -1,5 +1,9 @@
 ---
 layout: default
+image:
+  path: https://avatars.githubusercontent.com/u/1961587?s=200&v=4
+  height: 200
+  width: 200
 ---
 
 Hello there! Welcome to my little corner of the Internet!
