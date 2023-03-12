@@ -30,7 +30,7 @@ So here's a brief history of my experiences, when I learned each skill, and a fe
   * Used to verify and build new models in an optical network simulator
 * 2011: Picked up **CUDA-C** for a course project
   * Parallelized video-editing software performing high dynamic range (HDR) imaging
-* 2012-<b>Present</b>: Joined the SAVI project as a developer and sysadmin
+* 2012-2021: Joined the SAVI project as a developer and sysadmin
   * Self-taught **Bash scripting**  and **regex** through debugging and enhancing **OpenStack**'s horrendously long *stack.sh* script
   * Created top-level network management component, written in **Python**, that configures the underlying network via **OpenFlow**
   * Picked up **SQL**, **Git**, **Docker**, **Kubernetes**, and manually making way too many RJ45 Ethernet cables along the way...
@@ -48,12 +48,15 @@ So here's a brief history of my experiences, when I learned each skill, and a fe
   * Used in at least two courses to teach students **software-defined networking (SDN)**
 * 2017: Self-taught **Go** to create a monitoring tool to track changes in network latency
 * 2017: Supervised team of summer students to develop a framework for tracking and counting people by sniffing **Wi-Fi** frames
-* 2019-2020: Developed a P2P service mesh using **Go** using libp2p
-  * Managed development w/ group of students for their capstone project
+* 2019-2020: Led a team of 4th year students in developing a P2P service mesh using **Go**
+  * Service mesh was built upon the **libp2p** framework
+  * A subset of the work was part of the students' capstone project
+  * Work was <a href="https://www.researchgate.net/publication/351707839_PhysarumSM_P2P_Service_Discovery_and_Allocation_in_Dynamic_Edge_Networks" target="_blank">published</a> in Integrated Management (IM) 2021
 * 2019-2020: Created a new lab environment & auto-marking framework in pure **Bash**
   * Enables students to work remotely, auto-updates, and remotely submit work
   * Usable for variety of courses from basic programming to networking
-* 2021-2023: Developed a suite of software drivers used as part of a space access launch stack
+* 2021-<b>Present</b>: Led software team in the design & development of a suite of drivers and other tools as part of a space access launch stack
+  * Designed, extended, or refactored software related to: flight management, GNC, ECU, TVC, and flight termination subsystems
   * Interfaced with various sensors & actuators via a variety of communication standards, including **RS-232/RS-422** UART, **CAN**, **I2C/SMBus**, as well as traditional TCP/IP
 
 </div>
