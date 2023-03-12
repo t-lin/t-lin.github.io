@@ -5,7 +5,7 @@ layout: default
 I dislike lazily enumerated lists of every degree ever acquired, position ever held, and skill ever learned.
 ***Context*** is far more insightful and interesting.
 So here's a brief history of my experiences, when I learned each skill, and a few mentionable projects.  
-(If you prefer the traditional CV format, <a href="/assets/files/cv.pdf" target="_blank">see here</a>)
+(Alternative formats of my experience: <a href="/assets/files/cv.pdf" target="_blank">traditional CV</a> or <a href="/assets/files/resume.pdf" target="_blank">1-page resume</a>)
 
 <div markdown="1" id="exp-history">
 * 2002: Self-taught basic **HTML** and the late 90's art of making ugly sites with dumb gifs
@@ -48,5 +48,7 @@ So here's a brief history of my experiences, when I learned each skill, and a fe
 * 2019-2020: Created a new lab environment & auto-marking framework in pure **Bash**
   * Enables students to work remotely, auto-updates, and remotely submit work
   * Usable for variety of courses from basic programming to networking
+* 2021-2023: Developed a suite of software drivers used as part of a space access launch stack
+  * Interfaced with various sensors & actuators via a variety of communication standards, including **RS-232/RS-422** UART, **CAN**, **I2C/SMBus**, as well as traditional TCP/IP
 
 </div>

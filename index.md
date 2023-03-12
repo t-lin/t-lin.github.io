@@ -5,8 +5,9 @@ layout: default
 Hello there! Welcome to my little corner of the Internet!
 
 ### About Me (the TL;DR version)
-I'm currently finishing up my PhD at the University of Toronto, where I've been doing work, research, and teaching for the better part of 10 years.
-My work and research focuses on software-based control and management of cloud infrastructures (more on this on the [research page](/research.html)).
+I'm a mission- and vision-driven software developer with over 10 years of hands-on research & development.
+I hold an MASc and PhD from the University of Toronto, where I worked, conducted research, and taught for the better part of 10 years.
+My academic work and research focused on software-based control and management of cloud infrastructures (more info on the [research page](/research.html)).
 
 3 random tidbits:
 1. I love science fiction, discussing about TV shows & movies, and eating all types of noodles.

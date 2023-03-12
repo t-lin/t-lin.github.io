@@ -11,8 +11,8 @@ title: Teaching
 -->
 
 My definition of teaching is: ***the art of dumbing shit down***.  
-I frequently aim, to the best of my ability, to explain concepts in ways a layman can comprehend.
-Usually this involves the use of ***imagery and carefully selected analogies*** as the first stepping stone into any new subject.
+I aim, to the best of my ability, to explain concepts in ways a layman can comprehend.
+This typically involves the use of ***imagery and carefully selected analogies*** as the first stepping stone into any new subject.
 I also favour the use of ***demos to tie the abstract concepts learned in class to the real-world***.
 
 I've been a teaching assistant for 10 years, serving multiple courses in roles ranging from leading tutorials, to lecturing, to designing and running hands-on labs.
@@ -31,7 +31,8 @@ Designed and implemented course materials (lab assignments and lesson plans).
   * Created new lab environment and flexible auto-marking system
   * Set of technical demos to show in tutorials and lectures to bridge theory with reality
   * Periodic surveys to gauge students' progress, understanding, and interest
-* ECE1508: **Network Softwarization: Technologies and Enablers** *(Winter '18, '19)*
+* ECE1508: **Network Softwarization: Technologies and Enablers** *(Winter '18 - '20)*
+  * Aided the design of the course syllabus and the schedule of lectures, involving instructors across 4 different universities
   * Lectures pertaining to the SAVI testbed, overlay networks, NFV, SDN, and orchestration
   * Created set of hands-on labs related to each of the above topics
 * ECE1548: **Advanced Network Architectures** *(Fall '12, '13, '15 - '17)*
