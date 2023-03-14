@@ -49,14 +49,15 @@ So here's a brief history of my experiences, when I learned each skill, and a fe
 * 2017: Self-taught **Go** to create a monitoring tool to track changes in network latency
 * 2017: Supervised team of summer students to develop a framework for tracking and counting people by sniffing **Wi-Fi** frames
 * 2019-2020: Led a team of 4th year students in developing a P2P service mesh using **Go**
-  * Service mesh was built upon the **libp2p** framework
   * A subset of the work was part of the students' capstone project
-  * Work was <a href="https://www.researchgate.net/publication/351707839_PhysarumSM_P2P_Service_Discovery_and_Allocation_in_Dynamic_Edge_Networks" target="_blank">published</a> in Integrated Management (IM) 2021
+  * Codenamed <a href="https://github.com/PhysarumSM" target="_blank">PhysarumSM</a>, the service mesh was built upon the **libp2p** framework
+  * PhysarumSM was <a href="https://www.researchgate.net/publication/351707839_PhysarumSM_P2P_Service_Discovery_and_Allocation_in_Dynamic_Edge_Networks" target="_blank">published</a> in Integrated Management (IM) 2021
 * 2019-2020: Created a new lab environment & auto-marking framework in pure **Bash**
   * Enables students to work remotely, auto-updates, and remotely submit work
   * Usable for variety of courses from basic programming to networking
 * 2021-<b>Present</b>: Led software team in the design & development of a suite of drivers and other tools as part of a space access launch stack
   * Designed, extended, or refactored software related to: flight management, GNC, ECU, TVC, and flight termination subsystems
   * Interfaced with various sensors & actuators via a variety of communication standards, including **RS-232/RS-422** UART, **CAN**, **I2C/SMBus**, as well as traditional TCP/IP
+  * Avionics software stack largely built on the **ROS2** framework
 
 </div>
