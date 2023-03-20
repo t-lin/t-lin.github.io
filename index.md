@@ -13,6 +13,11 @@ I'm a mission- and vision-driven software developer with over 10 years of hands-
 I hold an MASc and PhD from the University of Toronto, where I worked, conducted research, and taught for the better part of 10 years.
 My academic work and research focused on software-based control and management of cloud infrastructures (more info on the [research page](/research.html)).
 
+Quick qualifications snapshot:
+- Managed operations of Linux-based clusters and network administration; physical planning and setup of IT infrastructure; developing and deploying networked applications & services; working with open source projects;
+- Software Development: Proficient in C/C++, Python, Golang, Bash/Shell; Past projects and experience using CUDA C, JavaScript & Node.js, Java;
+- Designed & implemented custom avionics software stack for space vehicles.
+
 3 random tidbits:
 1. I love science fiction, discussing about TV shows & movies, and eating all types of noodles.
 2. Currently trying to learn French and how to do a handstand. Currently failing at the latter. 😔
