@@ -55,3 +55,6 @@ section {
   ul { margin: 0 0 5px; } /* Custom spacing between bullets of different levels */
   strong { color: rgba(60, 180, 180, 1.00) }
 }
+
+ol ol { list-style-type: lower-alpha; }
+ol ol ol { list-style-type: lower-roman; }
