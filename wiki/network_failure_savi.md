@@ -2,6 +2,7 @@
 layout: default
 title: Possible Causes for Network Failures in SAVI
 section: wikipost
+original_date: 2017-02-18
 last_modified: 2020-12-23
 image:
   path: https://avatars.githubusercontent.com/u/1961587?s=200&v=4

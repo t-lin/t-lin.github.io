@@ -2,6 +2,7 @@
 layout: default
 title: IPMI Serial-Over-LAN (for Supermicro motherboard)
 section: wikipost
+original_date: 2017-03-06
 last_modified: 2017-03-31
 image:
   path: https://avatars.githubusercontent.com/u/1961587?s=200&v=4
