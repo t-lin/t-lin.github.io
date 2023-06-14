@@ -70,12 +70,11 @@ The following steps enables us to manually create a virtual volume on the storag
     *  `sudo iscsiadm --mode node --targetname <target name from step 4> --portal 10.20.40.200 --login`
 6. If the connection was successful, repeat step 1, and see if a new device has appeared
 
-[//]:# Additional Resources
-[//]:  * {{ :sysadmin:m40c6-a00_ps4210_install.pdf |Dell EqualLogic PS4210 Storage Arrays: Installation & Setup Guide}}
-[//]:  * {{ :sysadmin:110-6125-en-a01_ps4210_hom.pdf |Dell EqualLogic PS4210 Storage Arrays: Hardware Owner's Manual}}
-[//]:  * {{ :sysadmin:ps-series-configuration-guide-v17.2-dell-emc-2018-_ecg_.pdf |Dell PS Series Configuration Guide}}
-[//]:  * {{ :sysadmin:sc-series-ps-series-dell-emc-networking-s4048-on-scg-2018-_scg1026_.pdf |Dell EMC Networking S4048-ON Switch Configuration Guide for PS Series}}
-[//]:  * [[http://psonlinehelp.equallogic.com/v4.0/groupmanager.htm|Dell EqualLogic Group Administration Help]]
-[//]:  * [[http://people.stern.nyu.edu/nwhite/scrc/ps4000e/110-6028-EN-R1_CLI_REFERENCE_V5.0.pdf |EqualLogic CLI Reference 
-[//]:    Guide ]]
+{% comment %}
+# Additional Resources
+  * Dell EqualLogic PS4210 Storage Arrays: Installation & Setup Guide
+  * Dell EqualLogic PS4210 Storage Arrays: Hardware Owner's Manual
+  * Dell PS Series Configuration Guide
+  * Dell EMC Networking S4048-ON Switch Configuration Guide for PS Series
+{% endcomment %}
 
