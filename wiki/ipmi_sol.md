@@ -10,7 +10,7 @@ image:
   width: 200
 ---
 
-##### *Last updated: {{ page.last_modified }}*
+##### *Last updated: {{ page.last_modified | default: page.original_date }}*
 
 # {{ page.title }}
 This document describe how to configure and use IPMI serial over lan (SOL). This document created for using with Supermicro motherboard.

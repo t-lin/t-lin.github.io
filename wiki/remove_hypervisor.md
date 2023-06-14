@@ -10,7 +10,7 @@ image:
   width: 200
 ---
 
-##### *Last updated: {{ page.last_modified }}*
+##### *Last updated: {{ page.last_modified | default: page.original_date }}*
 
 # {{ page.title }}
 This guide shows how to manually remove a hypervisor (agent compute node) from OpenStack.

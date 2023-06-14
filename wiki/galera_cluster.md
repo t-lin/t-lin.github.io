@@ -10,7 +10,7 @@ image:
   width: 200
 ---
 
-##### *Last updated: {{ page.last_modified }}*
+##### *Last updated: {{ page.last_modified | default: page.original_date }}*
 
 # {{ page.title }}
 A Galera Cluster is a multi-master database solution using either MySQL or MariaDB databases.

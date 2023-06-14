@@ -10,7 +10,7 @@ image:
   width: 200
 ---
 
-##### *Last updated: {{ page.last_modified }}*
+##### *Last updated: {{ page.last_modified | default: page.original_date }}*
 
 # {{ page.title }}
 This guide shows how to install or upgrade PicOS from scratch.
@@ -96,6 +96,7 @@ ovs-vsctl set interface te-1/1/11 options:link_speed=1G
 ## Helpful Links
 http://www.pica8.com/wp-content/uploads/2015/09/v2.0/pdf/2.0.1-image-upgrade-guide.pdf
 http://www.pica8.com/documents/html/ovs_configuration_guide/1639927.html
+https://docs.google.com/document/d/1Q0MAKKXfAVB8NY0YcrRmiRtq2foV08G5Ogaktccszbo/edit
 
 ## Troubleshooting
 Potential causes for various issues, and how to fix them.

@@ -10,7 +10,7 @@ image:
   width: 200
 ---
 
-##### *Last updated: {{ page.last_modified }}*
+##### *Last updated: {{ page.last_modified | default: page.original_date }}*
 
 # {{ page.title }}
 Clearing old data and freeing space back to the OS requires extra space (unless WiredTiger storage engine is in use). This presents a catch-22... to clear space, you need space!

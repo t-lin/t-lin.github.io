@@ -10,7 +10,7 @@ image:
   width: 200
 ---
 
-##### *Last updated: {{ page.last_modified }}*
+##### *Last updated: {{ page.last_modified | default: page.original_date }}*
 
 # {{ page.title }}
 OpenStack often uses "soft deletion" in its MySQL database, which simply sets a "deleted" flag to a non-zero value. This makes the database grow to very large sizes.
